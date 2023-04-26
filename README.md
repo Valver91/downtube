@@ -1,2 +1,4 @@
 # downtube
 En este repositorio guardo un pequeño proyecto para descargar el video o el audio de un enlace de YouTube.
+
+Este programa permite descargar videos de YouTube. Al iniciarse, se abre una ventana con una casilla de texto donde se debe pegar el enlace completo del video que se desea descargar. Luego, el usuario puede elegir si quiere descargar solo el audio o el video completo mediante dos botones de selección (RadioButtons). Finalmente, se presiona el botón "Descargar" y el programa descarga el archivo correspondiente al video que se especificó en la casilla de texto. Además, el programa muestra una ventana de mensaje informando al usuario que la descarga ha finalizado. El programa está hecho en Python, utilizando las librerías pytube (para la descarga del video de YouTube), tkinter (para la interfaz gráfica) y PIL (para la manipulación de imágenes).
